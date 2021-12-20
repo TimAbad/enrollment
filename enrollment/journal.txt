@@ -1,0 +1,2 @@
+venv\Scripts\activate
+mongoimport --db UTA_Enrollment --jsonArray --collection user --file users.json
